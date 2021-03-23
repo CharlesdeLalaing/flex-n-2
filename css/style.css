@@ -1,0 +1,14 @@
+section {
+    display: flex;
+}
+
+div {
+    border: black solid 1px;
+    padding: 50px;
+    margin: 5px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: center;
+    background-color: cadetblue;
+}
